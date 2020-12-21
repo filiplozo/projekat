@@ -28,64 +28,17 @@ include('Menu Bar.php')
     </ol>
     <!--Indicators Close Here-->
 
-<!--    <!-- Wrapper for slides -->
-<!---->
-<!--    <div class="carousel-inner" role="listbox">-->
-<!--        --><?php
-//        $i=1;
-//        $sql=mysqli_query($con,"select * from slider");
-//        while($slider=mysqli_fetch_assoc($sql))
-//        {
-//            $slider_img=$slider['image'];
-//            $slider_cap=$slider['caption'];
-//            $path="image/Slider/$slider_img";
-//            if($i==1)
-//            {
-//                ?>
-<!--                <div class="item active">-->
-<!--                    <img src="--><?php //echo $path; ?><!--" alt="Image">-->
-<!--                    <div class="carousel-caption">-->
-<!--                        <h2>--><?php //echo $slider_cap; ?><!--</h2>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--                --><?php
-//            }
-//            else
-//            {
-//                ?>
-<!--                <div class="item">-->
-<!--                    <img src="--><?php //echo $path; ?><!--" alt="Image">-->
-<!--                    <div class="carousel-caption">-->
-<!--                        <h2>--><?php //echo $slider_cap; ?><!--</h2>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!---->
-<!--            --><?php	//} ?>
-<!---->
-<!---->
-<!--            --><?php //$i++; } ?>
-<!---->
-<!---->
-<!--    </div>-->
-<!---->
-<!---->
-<!--    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">-->
-<!--        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>-->
-<!--        <span class="sr-only">Previous</span>-->
-<!--    </a>-->
-<!--    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">-->
-<!--        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>-->
-<!--        <span class="sr-only">Next</span>-->
-<!--    </a>-->
+<!--    <!-- slides -->
+
 
 
 </div>
 
-<div class="container-fluid"id="red"><!--Id Is Red-->
+<div class="container-fluid"id="red">
     <div class="container text-center">
         <h1>Welcome To <b>Apartman Booking</b></h1><hr><br>
         <div class="row">
-            <div class="hov"><!--Hov is Class-->
+            <div class="hov">
 
 
                 <?php
