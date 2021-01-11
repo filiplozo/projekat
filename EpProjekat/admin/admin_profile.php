@@ -7,12 +7,12 @@ while($res=mysqli_fetch_assoc($sql))
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Hotel.Com</title>
+    <title>Apartman Booking</title>
     <link href="https://fonts.googleapis.com/css?family=Baloo+Bhai" rel="stylesheet">
 </head>
 <body>
 <h1 style="background-color:#e5e5e5;border-radius:50px;text-align:center;font-family: 'Baloo Bhai', cursive;box-shadow:5px 5px 9px black;text-shadow:2px 2px #fff;">Admin Profile</h1><br>
-<center><img src="../image/user/user.png"style="width:180px;height:180px;background-color:#e5e5e5;"class="img-circle"></center>
+<img src="../image/user/user.png"style="width:180px;height:180px;background-color:#e5e5e5;"class="img-circle">
 <div class="container"style="width:100%;">
     <form action="/action_page.php">
         <div class="form-group">

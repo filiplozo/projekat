@@ -32,17 +32,29 @@
     </expand>
     <select />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1lbmnojPoLj5HQmBn8PKZHTNQ2T" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\EpProjekat" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\EpProjekat\admin\logo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\EpProjekat\admin" />
+      <recent name="C:\xampp\htdocs\EpProjekat" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -69,6 +81,9 @@
       <updated>1607874334872</updated>
       <workItem from="1607874337298" duration="9814000" />
       <workItem from="1607968143248" duration="660000" />
+      <workItem from="1608015413925" duration="2591000" />
+      <workItem from="1610382597041" duration="1648000" />
+      <workItem from="1610384255176" duration="4501000" />
     </task>
     <servers />
   </component>

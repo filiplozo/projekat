@@ -12,7 +12,7 @@ error_reporting(1);
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <img src="logo/logo.png" width="160px"height="40px"style="margin-top:5px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="logo/logo1.png" width="160px"height="40px"style="margin-top:5px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         </div>
         <div class="collapse navbar-collapse" id="myNavbar">
             <ul class="nav navbar-nav">

@@ -19,7 +19,7 @@ if($admin=="")
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
     <style>
-        /* Remove the navbar's default margin-bottom and rounded borders */
+
         .navbar {
             margin-bottom: 0;
             border-radius: 0;
@@ -70,11 +70,10 @@ if($admin=="")
             }
             else
             {
-//
-//                else if($opt=="slider")
-//                {
-//                    include('slider.php');
-//                }
+                 if($opt=="slider")
+                {
+                    include('slider.php');
+                }
                 if($opt=="update_slider")
                 {
                     include('update_slider.php');
